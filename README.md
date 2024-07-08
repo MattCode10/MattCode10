@@ -5,4 +5,4 @@
   I am learning these Languages:
 </p>
 ![Logo](python_)
-<img alt="Python" src="https://custom-icon-badges.demolab.com/?logo=python_18894">
+<img alt="Python" src="js_logo.svg">
