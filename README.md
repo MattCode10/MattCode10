@@ -5,4 +5,9 @@
   I am learning these Languages:
 </p>
 ![Logo](python_)
-<img alt="Python" src="js_logo.svg">
+<p>
+<img alt="HTML" src="html_logo.ico">
+<img alt="Javascript" src="js_logo.ico">
+<img alt="Python" src="python_logo.ico">
+<img alt="C" src="c_logo.ico">
+</p>
