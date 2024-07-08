@@ -4,5 +4,5 @@
   <br>
   I am learning these Languages:
 </p>
-![Logo](https://custom-icon-badges.demolab.com/?logo=python_18894)
+![Logo](python_)
 <img alt="Python" src="https://custom-icon-badges.demolab.com/?logo=python_18894">
